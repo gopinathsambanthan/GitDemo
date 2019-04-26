@@ -17,6 +17,7 @@ public  class AppTest
     public void AppTest()
     {
         System.out.println("Testing");
+        System.out.println("Testing part");
     }
 
     /**

@@ -22,7 +22,7 @@ public class FlipkartTest extends baseTest{
 	{
 		
 		driver.get(value);
-		
+		System.out.println("Test");
 		
 		
 		
